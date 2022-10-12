@@ -1,0 +1,23 @@
+.App {
+
+}
+#header {
+
+}
+
+#Home {
+  padding: 2% 10%;
+
+}
+
+
+@media screen and (max-width: 1220px) {
+  #SearchEvent {
+    text-align: center;
+  }
+  .SearchContainer {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+    align-items: center !important;
+  }
+}
